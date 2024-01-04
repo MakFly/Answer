@@ -1,8 +1,6 @@
 # Proposition de Collaboration
 
-Bonjour [Nom du Recruteur],
-
-Je suis ravi(e) de discuter de l'opportunité de collaboration chez [Nom de l'Entreprise]. Avant d'aller plus loin, j'aimerais clarifier mes conditions de rémunération et partager avec vous mes compétences techniques.
+Bonjour,
 
 ## Conditions de Rémunération
 
